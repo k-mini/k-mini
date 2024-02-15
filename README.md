@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### 📈 my github stats 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-mini&show_icons=true&theme=cobalt" alt="Anurag's GitHub stats" 
+  <img src="https://github-readme-stats.vercel.app/api?username=k-mini&show_icons=true&theme=cobalt" alt="KwangMin's GitHub stats" 
        />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-mini" alt="Top Langs" />
 </div>
